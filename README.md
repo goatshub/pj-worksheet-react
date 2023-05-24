@@ -57,4 +57,5 @@ npm run gwatch
 **6. Test or manage deployment**
 
 Deploy > Test deployments for development
+
 Deploy > Manage deployments > version > new version for updating live deployment
